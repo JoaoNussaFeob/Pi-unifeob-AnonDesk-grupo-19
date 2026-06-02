@@ -25,6 +25,9 @@ Projeto Integrador da UNIFEOB — Sistema IoT **AnonDesk**.
 ## 🛠️ Tecnologias
 
 - HTML
+- CSS
+- JavaScript
+- C++
 - ESP32
 - Arduino Mega
 - IoT
