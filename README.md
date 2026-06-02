@@ -15,6 +15,13 @@ Projeto Integrador da UNIFEOB — Sistema IoT **AnonDesk**.
 
 🔗 [Acesse o design no Figma](https://www.figma.com/file/gKwtqP34ZNImhbAZMo27au?node-id=0:1&t=rL6S30fswRn70yME-1&locale=pt-br&type=design)
 
+## 👥 Integrantes do Grupo
+
+- Kauê Silva
+- João Nussa
+- Pedro Boletta
+- Kauã Marques
+
 ## 🛠️ Tecnologias
 
 - HTML
